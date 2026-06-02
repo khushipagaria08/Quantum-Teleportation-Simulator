@@ -40,7 +40,7 @@ The protocol uses three qubits:
 
 A Bell pair is created between Alice's qubit (A) and Bob's qubit (B):
 
-(|00⟩ + |11⟩)/√2
+(|00⟩ + |11⟩) / √2
 
 This shared entangled state acts as the quantum channel.
 
@@ -111,6 +111,12 @@ The histogram shows the distribution of Alice's measurement outcomes (00, 01, 10
 * Matplotlib
 
 ---
+
+## Run in Google Colab
+
+Click the button below to open the notebook directly in Google Colab.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khushipagaria08/Quantum-Teleportation-Simulator/blob/main/QTS.ipynb)
 
 
 ## Author
